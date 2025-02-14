@@ -1,6 +1,6 @@
 ### Hola! Mi nombre es Julieta, 
 Soy estudiante de Biotecnología en la Facultad de Ciencias Químicas de la UNC! Desde pequeña me fascinó el mundo micriscópico, entender cómo punsionan las moléculas, cómo funciona la vida, ésto me impulsó a estudiar biotecnología, donde encontre mi verdadero propósito 🌱
-Actualmente quiero dedicarme al campo de la Bioinformática y la Biología molecular, tambien me interesa la Biología sintética ✨
+Actualmente quiero dedicarme al campo de la Bioinformática y la Biología computasional, tambien me interesa la Biología sintética ✨
 He participado de grupos de investigacion donde realizamos simulaciones se sistemas biológicos, modelado de proteinas, creacion de redes neuronales, etc.
 
 Utilizaré git hub para subir todo lo que he y voy aprendiendo sobre análisis de datos usando python. Tuve la enorme oportunidad de haber recibido cursos gratuitos impulsados por políticas de Estado tales como "Argentina Programa", sin embargo éste tipo de cursos ya no estan disponibles, por lo que he decidido recopilar cursos gratuitos, guías, libros, documentacion, etc. para seguir aprendiendo.
