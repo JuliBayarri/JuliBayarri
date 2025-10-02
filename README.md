@@ -1,21 +1,24 @@
-### Hola! Mi nombre es Julieta, 
-Soy estudiante de Biotecnología en la Facultad de Ciencias Químicas de la UNC! Desde pequeña me fascinó el mundo micriscópico, entender cómo funcionan las moléculas, cómo funciona la vida, ésto me impulsó a estudiar biotecnología, donde encontre mi verdadero propósito 🌱
-Actualmente quiero dedicarme al campo de la Bioinformática y la Biología computacional, tambien me interesa la Biología sintética ✨
-He participado de grupos de investigacion donde realizamos simulaciones se sistemas biológicos, modelado de proteinas, creacion de redes neuronales, etc.
+### Hello, my name is Julieta, 
 
-Utilizaré git hub para subir todo lo que he y voy aprendiendo sobre análisis de datos usando python. Tuve la enorme oportunidad de haber recibido cursos gratuitos impulsados por políticas de Estado tales como "Argentina Programa", sin embargo éste tipo de cursos ya no están disponibles, por lo que he decidido recopilar cursos gratuitos, guías, libros, documentación, etc. para seguir aprendiendo, tambien planeo subir algunos miniproyectos orientados a la bioinformática. ¡Espero que a alguien le sirva! 🥰💞
+I am a Biotechnology student at the National University of Córdoba, Argentina.
 
+I am especially interested in the fields of Bioinformatics, Computational Biology, and Synthetic Biology. I have had the opportunity to participate in research groups focused on biological system simulations, protein modeling, and even neural network development.
 
+🚀 What I Do
 
-<!--
-**JuliBayarri/JuliBayarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use GitHub to share what I am learning and building, especially in data analysis with Python.
+Some of my projects include:
 
-Here are some ideas to get you started:
+Mini-projects in Python
 
-- 🌱 I’m currently learning Python, some BigData analysis and Bioinfermatic
-- 👯 I’m looking to collaborate on bioinformatics projects
-- 📫 How to reach me: julieta.bayarri@mi.unc.edu.ar
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: My native language is not English, I am from Argentina, I can understand English but I may not be as good at writing or speaking, I hope you can understand.
-I am a Biotechnology student and I am learning programming and bioinformatics by myself.
--->
+Basic tutorials on Python libraries
+
+Ongoing projects on the analysis of molecular dynamics of biological membranes.
+
+📚 Continuous Learning
+
+I was fortunate to take free programming courses through initiatives such as Argentina Programa, which gave me a solid foundation in Python and data analysis. Although such opportunities are no longer widely available, I remain committed to self-learning. I collect and study open courses, guides, books, and documentation, and I aim to share part of this journey here.
+
+💡 Why GitHub?
+
+My goal is not only to showcase my own learning process, but also to create resources that may help others starting out in Python, bioinformatics, and computational biology. If even one of my projects helps someone else, it will be worth it!
